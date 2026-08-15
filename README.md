@@ -7,26 +7,36 @@ AI & Full‑Stack Developer building intelligent, real‑world solutions — voi
 - Voice‑enabled security tooling (AI Guardian) and secure ML deployment workflows.
 
 ⭐ Featured projects
-- **AI Guardian** — Voice‑enabled cybersecurity assistant that detects active cyber threats and system vulnerabilities. Deployed on Render.  
-  Repo: https://github.com/Subhambisoi/AI-Guardian
+- **AI Guardian** — Voice-enabled cybersecurity assistant that detects active cyber threats and system vulnerabilities.  
+  Repo: https://github.com/Subhambisoi/AI-Guardian  
+  Live: https://ai-guardian-o38i.onrender.com/  
+  Badges:  
+  [![Live](https://img.shields.io/website?url=https%3A%2F%2Fai-guardian-o38i.onrender.com)](https://ai-guardian-o38i.onrender.com/)  
+  [![CI](https://github.com/Subhambisoi/AI-Guardian/actions/workflows/ci.yml/badge.svg)](https://github.com/Subhambisoi/AI-Guardian/actions)
+
 - **RBI Regulatory Intelligence Dashboard** — RAG-based dashboard for querying RBI regulatory documents using local embeddings, semantic search, and Llama 3.1/Groq.  
-  (Repo not found in your account — add the repo or paste its URL and I will link it here.)
+  Repo: (add repo URL here)  
+  Live: (add demo URL here)
+
 - **AI Interviewer & ATS Optimizer** — Dynamic interview question generator and resume analyzer for ATS optimization.  
-  Repo: https://github.com/Subhambisoi/InterviewMaster-Ai
-- **Weather Forecasting System** — Real-time forecasting with an interactive AI voice assistant.  
-  Demo/Repo: https://github.com/Subhambisoi/weaherforecasting14.github.io
+  Repo: https://github.com/Subhambisoi/InterviewMaster-Ai  
+  Live: https://interview-master-ai-eight.vercel.app/  
+  Badges:  
+  [![Live](https://img.shields.io/website?url=https%3A%2F%2Finterview-master-ai-eight.vercel.app)](https://interview-master-ai-eight.vercel.app/)  
+  [![CI](https://img.shields.io/github/actions/workflow/status/Subhambisoi/InterviewMaster-Ai/ci.yml?branch=main)](https://github.com/Subhambisoi/InterviewMaster-Ai/actions)
+
+- **Weather Forecasting System** — Real-time forecasting with voice assistant.  
+  Repo / Demo: https://github.com/Subhambisoi/weaherforecasting14.github.io  
+  Live: https://subhambisoi.github.io/weaherforecasting14.github.io/
+
 - **Password Strength Analyzer** — Security tool that evaluates password strength and gives remediation feedback.  
-  (Repo not found — paste URL if you have it and I will add the link.)
+  Repo: (add repo URL here)
 
 🔧 Other software & web projects
-- KFC Billing System — Billing/order management app  
-  (Repo not found in your account — add URL if available)
-- Online Railway Ticket Booking / Management System  
-  (Repo not found — add URL if available)
-- Food Ordering System  
-  (Repo not found — add URL if available)
-- Tic‑Tac‑Toe with text‑to‑speech (Python)  
-  Repo (example projects in your account): https://github.com/Subhambisoi/movieticket
+- KFC Billing System — Billing/order management app  (add repo URL here)  
+- Online Railway Ticket Booking / Management System  (add repo URL here)  
+- Food Ordering System  (add repo URL here)  
+- Tic‑Tac‑Toe with text‑to‑speech (Python) — https://github.com/Subhambisoi/movieticket
 
 💼 Work & internships
 - Worked in a cybersecurity role at Mindbrain Innovation Pvt Ltd.  
@@ -41,40 +51,9 @@ AI & Full‑Stack Developer building intelligent, real‑world solutions — voi
 Python · PyTorch · LLMs (Llama 3.1) · Embeddings · RAG · Docker · Groq · REST APIs · Voice assistants · CI/CD · Render · PostgreSQL · Web (React/Node)
 
 🚀 Deployment & demos
-- Many projects are deployed (AI Guardian on Render). Add direct demo URLs here for each deployed project and I will add badges/try links.
+- Live demos: AI Guardian (Render), InterviewMaster-Ai (Vercel), Weather Forecast (GitHub Pages). Add any other live URLs and I’ll update badges.
 
-🤝 Collaboration & contact
-Open to collaboration, research partnerships, and contract work.  
-- Email: s09938455@gmail.com  
-- Contributions & PRs: welcome — check pinned repos and issue labels for good‑first‑issues.
-
-📌 Quick links
-- Portfolio repo: https://github.com/Subhambisoi/portfolio
-- GitHub Pages: https://subhambisoi.github.io
-- Best way to reach me: s09938455@gmail.com or GitHub Discussions/Issues in the relevant repo
-- ## ⭐ Featured projects
-
-- **AI Guardian** — Voice-enabled cybersecurity assistant that detects active threats and vulnerabilities.  
-  Repo: https://github.com/Subhambisoi/AI-Guardian  
-  Live: <ADD_RENDER_URL>  
-  Badges:  
-  [![CI](https://github.com/Subhambisoi/AI-Guardian/actions/workflows/ci.yml/badge.svg)](https://github.com/Subhambisoi/AI-Guardian/actions)  
-  [![Deployed on Render](<RENDER_BADGE_URL>)](<RENDER_SERVICE_URL>)
-
-- **RBI Regulatory Intelligence Dashboard** — RAG-based regulatory search (Llama 3.1 / Groq).  
-  Repo: <ADD_REPO_URL>  
-  Live: <ADD_DEMO_URL>
-
-- **AI Interviewer & ATS Optimizer** — Interview question generator and resume analyzer.  
-  Repo: https://github.com/Subhambisoi/InterviewMaster-Ai  
-  Live: <ADD_DEPLOY_URL>  
-  Badges: [![CI](https://img.shields.io/github/actions/workflow/status/Subhambisoi/InterviewMaster-Ai/ci.yml?branch=main)](https://github.com/Subhambisoi/InterviewMaster-Ai/actions)
-
-- **Weather Forecasting System** — Real-time forecasting with voice assistant.  
-  Repo / Demo: https://github.com/Subhambisoi/weaherforecasting14.github.io  
-  Live: https://subhambisoi.github.io/weaherforecasting14.github.io/
-
-  ## 🤝 Contact
-- Email: [s09938455@gmail.com](mailto:s09938455@gmail.com)
-- Portfolio: https://github.com/Subhambisoi/portfolio
+🤝 Contact
+- Email: [s09938455@gmail.com](mailto:s09938455@gmail.com)  
+- Portfolio repo: https://github.com/Subhambisoi/portfolio  
 - Live site: https://subhambisoi.github.io
