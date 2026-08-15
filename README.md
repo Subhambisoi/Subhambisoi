@@ -73,3 +73,8 @@ Open to collaboration, research partnerships, and contract work.
 - **Weather Forecasting System** — Real-time forecasting with voice assistant.  
   Repo / Demo: https://github.com/Subhambisoi/weaherforecasting14.github.io  
   Live: https://subhambisoi.github.io/weaherforecasting14.github.io/
+
+  ## 🤝 Contact
+- Email: [s09938455@gmail.com](mailto:s09938455@gmail.com)
+- Portfolio: https://github.com/Subhambisoi/portfolio
+- Live site: https://subhambisoi.github.io
