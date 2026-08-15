@@ -52,3 +52,24 @@ Open to collaboration, research partnerships, and contract work.
 - Portfolio repo: https://github.com/Subhambisoi/portfolio
 - GitHub Pages: https://subhambisoi.github.io
 - Best way to reach me: s09938455@gmail.com or GitHub Discussions/Issues in the relevant repo
+- ## ⭐ Featured projects
+
+- **AI Guardian** — Voice-enabled cybersecurity assistant that detects active threats and vulnerabilities.  
+  Repo: https://github.com/Subhambisoi/AI-Guardian  
+  Live: <ADD_RENDER_URL>  
+  Badges:  
+  [![CI](https://github.com/Subhambisoi/AI-Guardian/actions/workflows/ci.yml/badge.svg)](https://github.com/Subhambisoi/AI-Guardian/actions)  
+  [![Deployed on Render](<RENDER_BADGE_URL>)](<RENDER_SERVICE_URL>)
+
+- **RBI Regulatory Intelligence Dashboard** — RAG-based regulatory search (Llama 3.1 / Groq).  
+  Repo: <ADD_REPO_URL>  
+  Live: <ADD_DEMO_URL>
+
+- **AI Interviewer & ATS Optimizer** — Interview question generator and resume analyzer.  
+  Repo: https://github.com/Subhambisoi/InterviewMaster-Ai  
+  Live: <ADD_DEPLOY_URL>  
+  Badges: [![CI](https://img.shields.io/github/actions/workflow/status/Subhambisoi/InterviewMaster-Ai/ci.yml?branch=main)](https://github.com/Subhambisoi/InterviewMaster-Ai/actions)
+
+- **Weather Forecasting System** — Real-time forecasting with voice assistant.  
+  Repo / Demo: https://github.com/Subhambisoi/weaherforecasting14.github.io  
+  Live: https://subhambisoi.github.io/weaherforecasting14.github.io/
