@@ -1,4 +1,5 @@
-## Hi there 👋#  I’m Subham
+# Hi 👋 I’m Subham
+
 AI & Full‑Stack Developer building intelligent, real‑world solutions — voice‑enabled cybersecurity assistants, RAG dashboards for regulatory documents, interview/ATS tools, and real‑time AI apps.
 
 🔭 Current focus
@@ -18,6 +19,15 @@ AI & Full‑Stack Developer building intelligent, real‑world solutions — voi
 - Food Ordering System  
 - Tic‑Tac‑Toe with text‑to‑speech (Python)
 
+💼 Work & internships
+- Worked in a cybersecurity role at Mindbrain Innovation Pvt Ltd.  
+- Internship at Techzex Pvt Ltd (AI/ML/Cybersecurity related work).  
+- Internship in AI/ML from CTTC.  
+- Received offer letters for Frontend Developer roles from Unified Mentor and Codec Technology.
+
+🎓 Courses & certifications
+- Completed full courses in SQL and Python from IFIT Institute.
+
 🛠 Tech & tools
 Python · PyTorch · LLMs (Llama 3.1) · Embeddings · RAG · Docker · Groq · REST APIs · Voice assistants · CI/CD · Render · PostgreSQL · Web (React/Node)
 
@@ -26,26 +36,9 @@ Python · PyTorch · LLMs (Llama 3.1) · Embeddings · RAG · Docker · Groq · 
 
 🤝 Collaboration & contact
 Open to collaboration, research partnerships, and contract work.  
-- Email: hello@subham.dev (or use the website link in my profile)  
+- Email: s09938455@gmai.com  
 - Contributions & PRs: welcome — check pinned repos and issue labels for good‑first‑issues.
 
 📌 Quick links
 - Portfolio / Resume: subham.dev (put your URL here)  
-- Best way to reach me: hello@subham.dev or GitHub Discussions/Issues in the relevant repo
-
-If you want a shorter bio or to include live demo links/badges, tell me the exact URLs and I’ll add them into both the bio (if needed) and the README with badges.
-
-<!--
-**Subhambisoi/Subhambisoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Best way to reach me: s09938455@gmai.com or GitHub Discussions/Issues in the relevant repo
